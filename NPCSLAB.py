@@ -12,12 +12,7 @@ def clear_screen():
 clear_screen()
 
 # Büyük ASCII "NPCSLAB" yazısı (Kırmızı)
-ascii_banner = pyfiglet.figlet_format("
-#   |  ____|            (_)    | |         |__   __|
-#   | |__ ___  ___   ___ _  ___| |_ _   _     | | ___  __ _ _ __ ___
-#   |  __/ __|/ _ \ / __| |/ _ \ __| | | |    | |/ _ \/ _` | '_ ` _ \
-#   | |  \__ \ (_) | (__| |  __/ |_| |_| |    | |  __/ (_| | | | | | |
-#   |_|  |___/\___/ \___|_|\___|\__|\__, |    |_|\___|\__,_|_| |_| |_|")
+ascii_banner = pyfiglet.figlet_format("FSOCIETY TOOL")
 print(colored(ascii_banner, 'red'))
 
 # Küçük kırmızı "TikTok: zted_or_npc" yazısı
