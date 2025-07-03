@@ -26,11 +26,11 @@ ascii_banner = pyfiglet.figlet_format("#    ______              _      _        
 #                              IcoDz - G00DYFORGOT
 #                             Tool For Hacking
 #                             Author : NPC               ")
-print(colored(ascii_banner, 'blue'))
+print(colored(ascii_banner, 'red'))
 
 # Küçük kırmızı "TikTok: zted_or_npc" yazısı
-print(colored("TikTok: zted_or_npc", 'blue'))
-print(colored("JUST ADD A HTTP ANY THING",'blue")
+print(colored("TikTok: zted_or_npc", 'red'))
+print(colored("JUST ADD A HTTP ANY THING",'red")
 
 # Kullanıcıdan PUT THE LINK HERE al
 target_url = input("\nHedef siteyi gir (http:// veya https:// ile): ")
